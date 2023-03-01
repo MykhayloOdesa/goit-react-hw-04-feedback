@@ -1,0 +1,14 @@
+.section {
+  padding: 30px;
+  border: 1px solid tomato;
+  border-radius: 10px;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.title:hover {
+  color: red;
+  cursor: pointer;
+}
